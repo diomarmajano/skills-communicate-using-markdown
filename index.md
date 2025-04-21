@@ -1,3 +1,1 @@
-# Diomar majano
-## Analista programador
-###### y estudiante de ingeneria en software
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
